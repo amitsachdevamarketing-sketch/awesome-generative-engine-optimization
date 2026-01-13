@@ -11,6 +11,7 @@
 - [Tools & Software](#tools--software)
 - [Research & Papers](#research--papers)
 - [Technical Documentation](#technical-documentation)
+- [Agentic Commerce & Shopping](#agentic-commerce--shopping)
 - [Monitoring & Analytics](#monitoring--analytics)
 - [Newsletters & Blogs](#newsletters--blogs)
 - [Videos & Podcasts](#videos--podcasts)
@@ -170,6 +171,43 @@ Major SEO platforms that have added AI search optimization capabilities:
 - [AI Search & Structured Data](https://www.searchenginejournal.com/ai-search-optimization-make-your-structured-data-accessible/537843/) - Implementation guide.
 - [JSON-LD vs Microdata Performance](https://www.searchpilot.com/resources/case-studies/json-versus-microdata-in-2024) - A/B test results.
 - [Schema for AI Visibility](https://www.oneorangecow.com/blog/increase-ai-search-visibility-with-structured-data-and-schema-markup) - Best practices.
+
+
+
+## Agentic Commerce & Shopping
+
+Open protocols and platforms enabling AI agents to facilitate discovery, purchasing, and checkout on behalf of users.
+
+### Google Universal Commerce Protocol (UCP)
+
+- [UCP Developer Guide](https://developers.google.com/merchant/ucp) - Official documentation for implementing Universal Commerce Protocol.
+- [Under the Hood: Universal Commerce Protocol](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/) - Technical deep dive from Google Developers Blog.
+- [New Tech and Tools for Retailers in the Agentic Era](https://blog.google/products/ads-commerce/agentic-commerce-ai-tools-protocol-retailers-platforms/) - Google's announcement of agentic commerce tools and UCP.
+- [Sundar Pichai's NRF 2026 Remarks](https://blog.google/company-news/inside-google/message-ceo/nrf-2026-remarks/) - CEO keynote announcing UCP at National Retail Federation.
+- [Google Announces Universal Commerce Protocol](https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/) - TechCrunch coverage of UCP launch.
+- [Google Launches UCP for Agent-Led Shopping](https://searchengineland.com/google-universal-commerce-protocol-467290) - Search Engine Land analysis.
+- [Google Bolsters AI Commerce with UCP](https://www.cnbc.com/2026/01/11/google-launches-universal-commerce-protocol-bets-on-ai-powered-retail.html) - CNBC coverage of the retail implications.
+
+UCP is an open-source protocol co-developed with Shopify, and endorsed by 20+ partners including PayPal, Stripe, Visa, Mastercard, Walmart, Target, Etsy, and Wayfair. It enables AI agents to handle product discovery, browsing, and checkout across merchants. Compatible with A2A (Agent2Agent), AP2 (Agent Payments Protocol), and MCP (Model Context Protocol).
+
+### OpenAI Agentic Commerce Protocol
+
+- [Buy It in ChatGPT: Instant Checkout](https://openai.com/index/buy-it-in-chatgpt/) - OpenAI's announcement of Instant Checkout and the Agentic Commerce Protocol.
+- [Introducing Shopping Research in ChatGPT](https://openai.com/index/chatgpt-shopping-research/) - ChatGPT's shopping research feature powered by GPT-5 mini.
+- [Instant Checkout for Merchants](https://chatgpt.com/merchants/) - Merchant integration guide for ChatGPT commerce.
+- [ChatGPT Shopping Research Feature](https://www.retaildive.com/news/openai-launches-chatgpt-shopping-research-feature/806656/) - Retail Dive coverage.
+- [OpenAI Shopping Tool Announcement](https://www.cnbc.com/2025/11/24/openai-announces-shopping-research-tool-in-latest-e-commerce-push.html) - CNBC analysis.
+
+OpenAI's Agentic Commerce Protocol, built in partnership with Stripe, powers Instant Checkout in ChatGPT. Launched September 2025 for Plus, Pro, and free users in the US. Partners include Etsy, Shopify, Walmart, and Target. Product results are organic and unsponsored. Merchants pay a small fee on completed purchases.
+
+### Industry Analysis
+
+- [The Protocol Behind Shopify and Google's AI Shopping Vision](https://theaieconomy.substack.com/p/shopify-google-ai-agents-commerce-protocol) - Deep analysis of UCP architecture and implications.
+- [Why AI Shopping Agent Wars Will Heat Up in 2026](https://www.modernretail.co/technology/why-the-ai-shopping-agent-wars-will-heat-up-in-2026/) - Modern Retail competitive landscape analysis.
+- [PayPal Supports Trusted AI Checkout with Google](https://newsroom.paypal-corp.com/2025-01-11-From-Search-to-Checkout-PayPal-Supports-Trusted-AI-Checkout-with-Google) - PayPal's UCP integration announcement.
+- [Google's New Tech Lets AI Agents Handle Checkout](https://skift.com/2026/01/11/google-ucp-ai-agentic-agents-checkout/) - Skift travel/commerce perspective.
+
+McKinsey projects agentic commerce will reach $3-5 trillion by 2030. Major players: Google (UCP), OpenAI (Agentic Commerce Protocol), Microsoft (Copilot Checkout). 2026 is the pivotal year for consumer adoption of AI shopping agents.
 
 
 
